@@ -6,3 +6,11 @@ This is useful for updating links, social media handles, or any repetitive text 
 
 Currently, data is hard coded so do not use this on your own videos unless you know what you are doing. I made a quick
 fix to update my video descriptions. Soon I will make a nice interface without hard coded variables.
+
+If you want to implement this, you need an API key. https://developers.google.com/youtube/v3/getting-started
+
+Download the client_secret.json and place it in YouTube-Mod-Descriptions/src/main/resources/client_secret.json
+
+You must also have gradle installed. 
+
+I have plans to convert this to a web app which makes it easy for people to use.
